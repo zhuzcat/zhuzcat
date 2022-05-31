@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @zhuzcat
-- ✨ 我是志博的v给
 - 👀 I’m interested in DC Comics!!!
 - 🌱 I’m currently learning Vue and React
 - 📫 How to reach me QQ:714938857
